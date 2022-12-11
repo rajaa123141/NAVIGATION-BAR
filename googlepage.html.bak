@@ -1,0 +1,153 @@
+<html >
+ <head>
+ 
+  <title>Document</title>
+  <link rel="stylesheet"href="favhero.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+  <style>
+  img
+{
+      padding:0px;
+	  margin:0px;
+}
+h1
+{
+    font-size:50px;
+	color:black;
+}
+#a2:active
+{ 
+  background-color:blue;
+}
+h4
+{
+    text-align:center;
+	font-size:15px;
+}
+#icon
+{
+     border:black 1px solid;
+	 padding:5px;
+	 border-left:0px;
+	 background-color:white;
+	 
+	 
+
+}
+#a5
+{
+     
+	  padding:5px;
+	width:495px;
+	border-left:0px;
+	outline:0px;
+	border:1px solid black;
+	border-right:0px;
+
+}
+
+  </style>
+ </head>
+ <body  style="width:100%">
+ <div id="raj">
+ <a href="favhero.html"class="at">open polling</a>
+ <a href="fieldset3.html"class="at">open fieldset</a>
+ <a href="pancard1.html"class="at">open pancard</a>
+ 
+ 
+  <a href="webpage.html" class="at">open web page</a>
+  <a href="googlepage.html" id="r1">open google page</a>
+ </div>
+ <div style="background-color:pink">
+ <center>
+
+ 
+ 
+ 
+ <img src="acor.png" style="width:150px;height:80px"></img>
+ <hr></hr>
+ <h4>log in</h4>
+ <h5> using your social network profile</h5>
+  <img src="icon.png" style="width:60px;height:80px"></img>
+   <img src="fbicon.png"style="width:60px;height:80px"></img>
+   <br>
+   </br>
+   <hr style="width:60%;"></hr>
+   <h3>with your email adress</h3>
+   <form>
+   <table style="padding-right:400px">
+   <tr>
+	<td>your email</td>
+	</tr>
+	</table>
+	<table style="padding-right:340px">
+   
+ <tr>
+	<td> example@gmail.com</td>
+	</tr>
+	</table>
+	<table style="padding-right:300px">
+   
+  <tr>
+	<td><input style="width:300%;height:30px"></input></td>
+   </tr>
+   </table>
+   <table style="padding-right:400px">
+ <tr>
+	<td>password</td>
+	</tr>
+	</table>
+	<table style="padding-left:50px">
+	 <tr>
+	 
+	<td>
+	<div style="display:flex; ">
+	
+	<input id="a5"></input>
+	<i class="fa fa-eye fa-5px" id="icon"></i>
+	</td>
+	</div>
+	</td>
+   </tr>
+    </table>
+	<br></br>
+	<table style="padding-right:350px">
+	 <tr>
+    <td><input style="width:20px;height:30px" type="checkbox" name="answer"></input></td>
+	<td>remember me</td>
+		</tr>
+	</table>
+	 <input style="width:40%;height:30px;margin-left:45px;margin-top:50px;border-radius:20px;background-color:blue" type="submit" value="login" id="a2"></input>
+	 <br>
+	 <h3><ins>forget your password ?</ins></h3>
+	 <br>
+	 <h4>Is the social network that you used to log in no longer available?click on</h4>
+	 <a href="eppudu.html" style="margin-right:20px">forget your password</a>
+	 <strong>to create new one</strong>
+	 <br>
+	 <br>
+   <hr style="width:50%;"></hr>
+    <h3>not yet registered?</h3>
+
+	 <fieldset style="width:40%;height:20px;margin-left:45px;margin-top:50px;border-radius:20px;">BECOME A MEMBER</fieldset>
+	 <BR>
+	 <FORM>
+	 
+	 
+	 <FIELDSET  style="width:40%;height:30px;margin-left:45px;BORDER:GREEN SOLID 1PX;">
+	 <LEGEND style="text-align:center"><IMG SRC="ACOR.PNG" STYLE="WIDTH:50PX;HEIGHT:60PX">DID YOU JOIN THE LOYALITY PROGRAMM<a href="polling.html">click here</a></LEGEND></FIELDSET>
+	
+	 
+	 
+
+
+  
+   
+ 
+   
+   
+
+</center>
+ </div>
+ </body>
+ </html>

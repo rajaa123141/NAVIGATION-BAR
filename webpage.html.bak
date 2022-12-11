@@ -1,0 +1,190 @@
+<html>
+ <head>
+ 
+  <title>Document</title>
+   <link rel="stylesheet"href="favhero.css">
+  <style>
+    
+	 #a3
+	 { 
+	    background-color:cyan;
+		width:100%;
+		height:700px;
+	 }
+	
+	}
+	#a4
+	{
+	   width:500px;
+	   height:100px;
+	   text-align:center;
+	   text-shadow:10px 10px 10px red;
+	   box-shadow:10px 0px 10px blue;
+	   font-style:italic;
+	   
+	  
+	}
+	ol
+	{
+	   color:white;
+	}
+	#a5
+	{
+	  color:blue;
+	}
+	
+	}
+	#a7
+	{
+	      text-shadow:0px 0px 5px green;
+		  font-size:45px;
+		  background-color:tomato;
+		  width:50%;
+		  text-align:center;
+		  box-shadow:10px 0px 5px cyan;
+	}
+	
+	}
+	#brder,td
+	{
+	     border:5px solid black;
+		 border-collapse:collapse;
+		 
+	}
+	.clr
+	{
+	   text-align:center;
+	   background-color:4567;
+	   padding:5px;
+	   font-size:30px;
+	   color:7897
+	}
+	.cl
+	{
+	   text-align:center;
+	   padding:5px;
+	   font-size:20px;
+	   
+	  
+
+	}
+	.cle
+	{
+	   text-align:center;
+	   padding:5px;
+	   font-size:20px;
+	    
+	   
+
+	}
+
+		 
+	.ntr
+	{
+	  font-size:25px;
+	  color:red;
+	}
+
+
+
+
+
+  </style>
+ </head>
+ <body>
+  <div id="a1">
+ <a href="favhero.html">open polling</a>
+ <a href="fieldset3.html">open fieldset</a>
+ <a href="pancard1.html">open pancard</a>
+ 
+ 
+  <a href="webpage.html">open web page</a>
+  <a href="googlepage.html">open google page</a>
+ </div>
+ <div style="background-color:black;padding-top:20px">
+ <h1 style="text-align:center;color:white"><ins>MY FIRST WEBSITE<ins></h1>
+ <strong>
+ <ul style="list-type:circle;">
+ <li class="li">HI...iam rajkumar this is my first website i hope this website will reaches my expectations</li>
+ <li class="li">Here iam going to tell about "HTML" form</li>
+ </ul>
+ <ol style="list-type:decimal;color:white">
+ <li><a href="rajaa.html" id="a5">HTML FORM LINK</a></li>
+ <li><a href="hyperlink.html"id="a5">HYPER LINK</a></li>
+ <li><a href="div.html"id="a5">DIV TAG</a></li>
+ <li><a href="field.html"id="a5">FIELDSET</a></li>
+ <li><a href="iframe.html"id="a5">IFRAME</a></li>
+  <li><a href="JAVA.htm"id="a5">JAVA FULL STACK WIKIPEDIA</a></li>
+ </ol>
+ <br>
+ <h1 id="a7">NTR AND PSPK DEVOTEE</h1>
+ <div id="a3">
+ <iframe src="ntrimages.jpg" style="width:600;height:500;"></iframe>
+ <iframe src="pawanvid.mp4" controls width="600"height="500" ></iframe>
+ </div>
+ <h2 >pan card details</h2>
+ <ul style="list-type:disc">
+ <li><a href="pancard1.html">open pancard</a></li>
+   <li><a href="table.html">
+   <img src="pbphotos.jfif"></img></a></li>
+   <li><a href="mainpage.html"><input type="button" value="open main page"></input></a></li>
+
+ </ul>
+ <br>
+ <h1 id="a4"> JAVA FULL STACK DEVELOPMENT</h1>
+ <img src="heart-love.gif"style="width:300;height:200;"></img>
+ <a href="lovelink.htm" ><h4>CLICK HERE TO DOWNLOADLOVE SYMBOLS</h4></a>
+ <IMG SRC="NTRIMAGES.JPG" STYLE="WIDTH:300;height:200;"></IMG>
+ <a href="ntrlink.htm" ><h3>CLICK HERE TO DOWNLOAD NTR PHOTOS</h3></a>
+  <a href="fbook.htm"><h3>CLICK HERE TO facebook login</h3></a>
+  <a href="ibomma.htm" ><h3>CLICK HERE TO iBOMMA WEBSITE</h3></a>
+    <a href="myyoutube.htm"><h3>CLICK HERE FOR GO TO UTUBE</h3></a>
+ 
+  <br></br>
+  
+ 
+ <label style="color:green"><h2>who is your favourite hero</h2></label>
+ 
+<img src="ntrimages.jpg" WIDTH="50" HEIGHT="50" ></img>              
+
+<input type="radio"  name="answer" >NTR</input>
+<br></br>
+<img src="ntrimages.jpg" width="50"height= "50"></img>
+
+<input  type="radio" name="answer">pspk</input>
+<br></br>
+<img src="pspkphotos.jpg" WIDTH="50" HEIGHT="50"></img>
+
+<input type="radio"name="answer">prabas</input>
+<br></br>
+<img src="pbphotos.jfif" WIDTH="50" HEIGHT="50"></img>
+
+<input type="radio" name="answer">AA</input>
+<br></br>
+<input type="submit" value="vote"></input>
+
+</div>
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+  
+ </body>
+</html>

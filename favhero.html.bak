@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ 
+  <title>Document</title>
+  <link rel="stylesheet"href="favhero.css">
+ </head>
+ <body style="width:100%">
+ <div id="a1">
+ <a href="favhero.html"class="at">open polling</a>
+ <a href="fieldset3.html"class="at">open fieldset</a>
+ <a href="pancard1.html"class="at">open fieldset</a>
+  
+
+  <a href="webpage.html"class="at">open web page</a>
+  <a href="googlepage.html" class="at">open google page</a>
+ </div>
+  <div style="background-color:white;padding-top:20px">
+  <fieldset style="width:30%;height:400px">
+  <form>
+  <center>
+ <label style="color:green"><h2>who is your favourite hero</h2></label>
+ 
+<img src="ntrimages.jpg" WIDTH="50" HEIGHT="50" ></img>              
+
+<input type="radio"  name="answer"  style="color:green">NTR</input>
+<br></br>
+<img src="ntrimages.jpg" width="50"height= "50"></img>
+
+<input mark style="color:green" type="radio" name="answer">pspk</input>
+<br></br>
+<img src="pspkphotos.jpg" WIDTH="50" HEIGHT="50"id="pb1"></img>
+
+<input type="radio" name="answer">prabas</img>
+<br></br>
+<img src="pbphotos.jfif" WIDTH="50" HEIGHT="50"id="pb"></img>
+
+<input type="radio"name="answer"id="aa">alluarjun</img>
+<br></br>
+<input type="submit" value="login"></input>
+</center>
+</form>
+</fieldset>
+
+  </div>
+ </body>
+</html>

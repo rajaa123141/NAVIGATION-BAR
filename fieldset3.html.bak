@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ 
+  <title>Document</title>
+  <link rel="stylesheet"href="favhero.css">
+ </head>
+ <body  style="width:100%">
+ <div id="a1">
+ <a href="favhero.html"class="at">open polling</a>
+ <a href="fieldset3.html"class="at">open fieldset</a>
+ <a href="pancard1.html"class="at">open pancard</a>
+ 
+ 
+  <a href="webpage.html"class="at">open web page</a>
+  <a href="googlepage.html" class="at">open google page</a>
+ </div>
+ <div id="a2">
+ <center>
+  <fieldset style="width:400px; height:500px;">
+  <strong>REGISTRATION</strong>
+ <fieldset style="width:400px;">
+ <form>
+ <table>
+ <tr>
+ <td><fieldset style="width:200px;"><legend>first name</legend><input type="name" style="border:0px;outline:0px;"></fieldset></td>
+ <td><fieldset style="width:200px;"><legend>second name</legend> <input type="name"style="border:0px;outline:0px;"></fieldset></td>
+ </tr>
+ <tr>
+ <td><fieldset style="width:200px;"><legend>gmail</legend><input type="mail" style="border:0px;outline:0px;"></fieldset></td>
+ <td><fieldset style="width:200px;"><legend>mobile</legend> <input type="number"style="border:0px;outline:0px;"></fieldset></td>
+ </tr>
+ </table>
+ <table>
+ <tr>
+ <td>
+ <fieldset style="width:436px;">
+ <legend>password</legend>
+ <input type="password" style="border:0px;outline:0px;"></input>
+ </fieldset>
+ </td>
+ </table>
+ <table>
+ <tr>
+ <td>
+ <fieldset style="width:436px;">
+ <legend> confirm password</legend>
+ <input type="password" style="border:0px;outline:0px;"></input>
+ </fieldset>
+ </td>
+ </table>
+ <table>
+ <tr>
+          <td></td><td></td><td></td>
+          <td></td><td></td><td></td>
+		  <td></td><td></td><td></td>
+		  <td></td><td></td><td></td>
+          <td><input type="submit"></input></td>
+           <td></td>
+		   <td></td>
+		   <td></td>
+          <td><input type="reset"></input> </td>
+ </tr>
+ </table>
+ </form>
+ </fieldset>
+ </fieldset>
+ </center>
+ </div>
+  
+ </body>
+</html>

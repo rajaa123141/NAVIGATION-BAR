@@ -1,0 +1,67 @@
+#a1
+{
+
+    display:flex;
+	background-color:orange;
+	height:150px;
+	align-items:center;
+	justify-content:space-evenly;
+	position:sticky;
+	top:10px;
+	width:100%;
+	font-size:30px;
+	color:green;
+}
+#raj
+{
+       display:flex;
+	background-color:orange;
+	height:150px;
+	align-items:center;
+	justify-content:space-evenly;
+	position:sticky;
+	top:10px;
+	width:100%;
+	font-size:30px;
+	color:green;
+}
+#a2
+{
+  
+   background-color:orange;
+   height:10000px;
+   padding-top:45px;
+   
+
+}
+#pb
+{
+    margin-left:22px;
+}
+#pb1
+{
+      margin-left:10px;
+}
+.at:active
+{
+    background-color:black;
+	border-radius:20px;
+	width:200px;
+	padding-left:30px;
+}
+#r1:active
+{
+    background-color:black;
+	border-radius:20px;
+	width:200px;
+	padding-left:30px;
+}
+.li
+{
+      color:white;
+}
+#aa
+{ 
+  position:relative;
+  left:2px;
+}
